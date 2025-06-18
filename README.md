@@ -1,16 +1,17 @@
-## Hi there 👋
+# Emma Zhang
 
-<!--
-**emz95/emz95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student at UCLA studying Cognitive Science. 
 
-Here are some ideas to get you started:
+## Technical Skills
+- Languages: Python, C++, JavaScript, HTML/CSS
+- Frameworks: React, Node.js, Firebase
+- Tools: Git, GitHub, VS Code
+- Concepts: Algorithms, Data Structures, AI/ML fundamentals, Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notable Projects
+- **Study Spot Matcher**  
+  Web app built with React and Firebase to help students find study locations based on preferences like noise level and available outlets. Developed as part of the ACM-W Fellowship.
+
+- **BLing Website**  
+  Developed an admin dashboard for managing presenters and applicants with Firestore backend as part of the Bruin Linguistics webiste.
